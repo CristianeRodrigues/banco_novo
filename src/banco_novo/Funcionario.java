@@ -11,7 +11,7 @@ package banco_novo;
  */
 public class Funcionario {
      int codigo;
-    String função;
+    int função;
     Endereco end;
 
     public void setCodigo(int codigo) {
