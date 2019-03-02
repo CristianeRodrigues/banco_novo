@@ -18,6 +18,7 @@ public class Banco_novo {
         // TODO code application logic here
         Funcionario funcionario = new Funcionario();
         funcionario.setCodigo(500);
+        funcionario.função = "supervisor";
     }
     
 }
