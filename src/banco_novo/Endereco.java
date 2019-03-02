@@ -11,7 +11,7 @@ package banco_novo;
  */
 public class Endereco {
 
-    String rua;
+    int rua;
     String numero;
     String bairro;
 
